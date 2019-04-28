@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins';
+    background: white;
+}
+
+.fluid-paragraph {
+    width: 680px;
+    margin: auto;
+    padding: 0 1.5rem;
+    position: relative;
+}
+
+.slice-lg {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
